@@ -1,2 +1,2 @@
 # helloworld
-test repositiry
+test repositiory
